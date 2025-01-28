@@ -14,4 +14,4 @@ This project consists of a Python script that creates an interactive dashboard, 
    - Geopandas</b>
 
 <h2>Code</h2>
-
+https://github.com/andreallinas/USElectionsDashboard/blob/main/Election_Dashboard.ipynb
