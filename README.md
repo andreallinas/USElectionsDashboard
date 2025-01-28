@@ -8,8 +8,8 @@ Project consists of a Python script that create an interactive dashboard that al
 <h2>Languages and Utilities Used</h2>
 
 - <b>Python:</b> 
--  - Pandas</b>
--  - Numpy</b>
--  - Panel</b>
--  - Geopandas</b>
+   - Pandas</b>
+   - Numpy</b>
+   - Panel</b>
+   - Geopandas</b>
 
