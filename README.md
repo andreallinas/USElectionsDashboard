@@ -1,22 +1,17 @@
-<h1>JWipe - Disk Sanitization</h1>
-
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
+<h1>US Election Dashboard</h1>
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+Project consists of a Python script that create an interactive dashboard that allows users to compare US election results from 1976 to 2020 and analyze trends. The dashboard allows you to select the desired year and state. The Python scripts utilizes Panel to launch the dashboard
 <br />
 
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
-
-<h2>Environments Used </h2>
-
-- <b>Windows 10</b> (21H2)
-
-<h2>Program walk-through:</h2>
+- <b>Python:</b> 
+- <b> - Pandas</b>
+- <b> - Numpy</b>
+- <b> - Panel</b>
+- <b> - Geopandas</b>
 
 <p align="center">
 Launch the utility: <br/>
