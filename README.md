@@ -1,7 +1,7 @@
 <h1>US Election Dashboard</h1>
 
 <h2>Description</h2>
-Project consists of a Python script that create an interactive dashboard that allows users to compare US election results from 1976 to 2020 and analyze trends. The dashboard allows you to select the desired year and state. The Python scripts utilizes Panel to launch the dashboard
+This project consists of a Python script that creates an interactive dashboard, enabling users to explore and analyze US election results from 1976 to 2020. Users can select specific years and states to compare election results, uncover trends, and gain insights into voting patterns over time. The dashboard is built using Panel.
 <br />
 
 
