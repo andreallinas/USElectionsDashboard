@@ -5,7 +5,7 @@ This project consists of a Python script that creates an interactive dashboard, 
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Languages and Libraries Used</h2>
 
 - <b>Python:</b> 
    - Pandas</b>
